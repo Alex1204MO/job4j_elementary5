@@ -12,6 +12,5 @@ public class AlertDivZero {
     public static void main(String[] args) {
         AlertDivZero.possibleDiv(-4);
         AlertDivZero.possibleDiv(0);
-
     }
 }
